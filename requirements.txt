@@ -1,0 +1,27 @@
+# LangChain core
+langchain
+langchain-community
+langchain-text-splitters
+
+# Model integrations
+langchain-huggingface
+langchain-groq
+
+# PDF processing
+pypdf
+
+# Embeddings and reranking
+sentence-transformers
+
+# Vector database
+faiss-cpu
+
+# Environment configuration
+python-dotenv
+
+# User interface
+streamlit
+
+# Testing
+pytest
+pytest-cov
